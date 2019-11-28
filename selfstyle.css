@@ -24,6 +24,139 @@
 	color: #4d4d4d;
 	margin-top: -10px;
 }
+.skills-display{
+	width: 75%;
+	height: auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding: 10px;
+
+}
+
+
+#cpp{
+	height: inherit;
+	width: 85%;
+	
+   border-radius: 0.99rem 0rem 0rem 0.99rem ;
+  
+	
+	background-color: #42fa0f;
+
+
+}
+#html{
+   height: inherit;
+	width:90%;
+	background-color: #eb4334;
+	
+	
+   border-radius: 0.99rem 0rem 0rem 0.99rem ;
+   
+}
+#python{
+   height: inherit;
+	width:80%;
+	background-color: #eb345f;
+   border-radius: 0.99rem 0rem 0rem 0.99rem ;
+}
+#css{
+   height: inherit;
+   width: 80%;
+   background-color: #eb34cc;
+   border-radius: 0.99rem 0rem 0rem 0.99rem ;
+	/*border-right:none;*/
+
+}
+#php{
+   height: inherit;
+   width: 80%;
+   background-color: #34b7eb;
+   border-radius: 0.99rem 0rem 0rem 0.99rem ;
+	/*border-right:none;*/
+
+}
+#mysql{
+   height: inherit;
+   width: 80%;
+   background-color: #3449eb;
+   border-radius: 0.99rem 0rem 0rem 0.99rem ;
+	/*border-right:none;*/
+
+}
+#javascript{
+   height: inherit;
+   width: 80%;
+   background-color: #eb34c3;
+   border-radius: 0.99rem 0rem 0rem 0.99rem ;
+	/*border-right:none;*/
+
+}
+#bootstrap{
+   height: inherit;
+   width: 80%;
+   background-color: #660af0;
+   border-radius: 0.99rem 0rem 0rem 0.99rem ;
+	/*border-right:none;*/
+
+}
+#jquery{
+   height: inherit;
+   width: 80%;
+   background-color: #ab34eb;
+   border-radius: 0.99rem 0rem 0rem 0.99rem ;
+	/*border-right:none;*/
+
+}
+#java{
+	height: inherit;
+	width: 80%;
+	background-color: orangered;
+	border-radius: 0.99rem 0rem 0rem 0.99rem ;
+	 /*border-right:none;*/
+ 
+ }
+ #dsa{
+	height: inherit;
+	 width:80%;
+	 background-color: #8ceb34;
+	border-radius: 0.99rem 0rem 0rem 0.99rem ;
+ }
+ 
+ #git{
+	height: inherit;
+	 width:80%;
+	 background-color: #3437eb;
+	border-radius: 0.99rem 0rem 0rem 0.99rem ;
+ }
+.skill-progress{
+	/*dius: 50%;*/
+	display: inline-block;
+	width: 11rem;
+	height: 2.2rem;
+	background-color: grey;
+	border-radius:1rem;
+ 
+	box-shadow: 1px 1px 2px 1px #b9b9b9 inset;
+	overflow: hidden;
+	margin:25px;
+ 
+ }
+ .skill-name span{
+	color: white;
+	
+	font-size: 1rem;
+	 padding-top: 10px;
+     padding-left: 10px;
+     box-sizing: border-box;
+     margin-left: 10px; 
+
+
+     vertical-align: middle;
+
+}
+
 
 nav.navi a{
 	font-family: 'Julius Sans One', sans-serif;
