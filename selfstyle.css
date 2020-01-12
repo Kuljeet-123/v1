@@ -437,6 +437,26 @@ p.act_title{
 	 background-color: #3437eb;
 	border-radius: 0.99rem 0rem 0rem 0.99rem ;
  }
+ 
+ #react{
+	height: inherit;
+	 width:80%;
+	 background-color: #eb345f;
+	border-radius: 0.99rem 0rem 0rem 0.99rem ;
+ }
+ #node{
+	 height: inherit;
+	 width: 80%;
+	 background-color: #161c81;
+	 border-radius: 0.99rem 0rem 0rem 0.99rem;
+ }
+ 
+ #mongo{
+	height: inherit;
+	width: 80%;
+	background-color: #42fa0f;
+	border-radius: 0.99rem 0rem 0rem 0.99rem;
+}
 .skill-progress{
 	/*dius: 50%;*/
 	display: inline-block;
